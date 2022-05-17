@@ -1,7 +1,6 @@
-//Problem #5: Smallest multiple
-//Description: 2520 is the smallest number than can be divided by each of the numberes from 1 to 10 without any remainder
-//Output: What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20
-//Notes: 2520 = 3*4*5*6*7
+//Problem #7: 10001st prime
+//Description: By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+//Output: What is the 10 001st prime number?
 
 #include <iostream>
 #include <vector>
